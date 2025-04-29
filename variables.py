@@ -40,10 +40,10 @@ class Config(object):
     DB_NAME = ""
 
     # Bot token
-    TOKEN = ""  # Get bot token from @BotFather on Telegram
+    TOKEN = "7945929153:AAGyRsinZGGU47cb8hBRrzY171caMNoinrE"  # Get bot token from @BotFather on Telegram
 
     # Owner's Telegram user ID (Must be an integer)
-    OWNER_ID = 5907205317
+    OWNER_ID = 7039652738
     # <=======================================================================================================>
 
     # <================================================ OPTIONAL ======================================================>
