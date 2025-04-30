@@ -26,15 +26,15 @@ class Config(object):
     DATABASE_URL = "postgres:"
 
     # Event logs chat ID and message dump chat ID
-    EVENT_LOGS = -100
-    MESSAGE_DUMP = -100
+    EVENT_LOGS = -1002350016913
+    MESSAGE_DUMP = -1002350016913
 
     # MongoDB configuration
     MONGO_DB_URI = ""
 
     # Support chat and support ID
     SUPPORT_CHAT = ""
-    SUPPORT_ID = -100
+    SUPPORT_ID = -1002350016913
 
     # Database name
     DB_NAME = ""
